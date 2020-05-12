@@ -1,0 +1,14 @@
+{
+  "name": "example",
+  "displayName": "example",
+  "components": {
+    "example": {
+      "displayName": "example"
+    }
+  },
+  "resources": [
+    "dist/assets",
+    "dist/main.jsbundle",
+    "dist/res"
+  ]
+}
